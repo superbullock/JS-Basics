@@ -77,7 +77,7 @@ alert("The Total Number was " + number);
 
 
   //Answer Here
-    // to check for falsy type if ('argument) and it will run if true.  falsy are - undefined, null, NaN, '', 0, and false
+    // to check for falsy type if ('argument') and it will run if true.  falsy are - undefined, null, NaN, '', 0, and false
 
 
 //Next Problem
